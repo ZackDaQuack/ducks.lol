@@ -14,5 +14,5 @@ Features:<br>
 </ul>
 Disclaimer:<br>
 This project is still under development. There may be bugs and unexpected behavior. <strong>I cannot guarantee that the project will be finished.</strong>
-
+<br><br>
 Thank you for your interest in ducks.lol! :)
