@@ -25,7 +25,6 @@ h1, h2, h3, h4, h5, h6, a {
   height: 500px;
   border-radius: 4%;
   transition: transform 0.3s;
-  box-shadow: 26px 15px 72px -7px rgba(0,0,0,0.5);
 }
 
 img:hover {
@@ -129,8 +128,6 @@ img:hover {
   height: 50px;
   line-height: 50px;
   cursor: pointer;
-  box-shadow: 26px 15px 72px -7px rgba(0,0,0,0.5);
-
 }
 
 .fa-solid {
@@ -159,7 +156,6 @@ img:hover {
   border: none;
   transition: 0.5s;
   overflow: hidden;
-   box-shadow: 31px 47px 75px -3px rgba(0,0,0,0.3);
 }
 
 .button span {
